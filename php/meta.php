@@ -13,4 +13,5 @@
     <link href="style/normalize.css" rel="stylesheet" type="text/css"/>
     <link href="style/style.css" rel="stylesheet" type="text/css"/>
     <link href="style/modules.css" rel="stylesheet" type="text/css"/>
+<link rel='shortcut icon' type='image/x-icon' href='favicon.png' />
 </head>
