@@ -10,6 +10,7 @@
                 <div id="list">
                     <li><a href = "index.php" class="<?php  echo ($name == 'index') ? 'active' : '';?>">Home</a></li>
                     <li><a href = "registration.php" class="<?php  echo ($name == 'register') ? 'active' : '';?>">Registration</a></li>
+                    <li><a href = "participants.php" class="<?php  echo ($name == 'participants') ? 'active' : '';?>">For participants</a></li>
                     <li><a href = "schedule.php" class="<?php  echo ($name == 'schedule') ? 'active' : '';?>">Schedule</a></li>
                     <li><a href = "guests.php" class="<?php  echo ($name == 'guests') ? 'active' : '';?>">Guests</a></li>
                     <li><a href = "jury.php" class="<?php  echo ($name == 'jury') ? 'active' : '';?>">Jury</a></li>
