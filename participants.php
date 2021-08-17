@@ -2,7 +2,7 @@
 <html lang="en">
 <?php require_once 'php/meta.php'; ?>
 <body>
-<?php $name = 'guests';
+<?php $name = 'participants';
 require_once 'php/menu.php'; ?>
 <main>
     <article>
