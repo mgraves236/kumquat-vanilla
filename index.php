@@ -10,6 +10,7 @@ require_once 'php/menu.php'; ?>
         <p><b>The Kumquat Student Conference</b> is an annual virtual meeting that brings together students, educators and scientific
             community.</p>
         <p>The conference will take place <b>online on 16-20 September 2021</b>.</p>
+        <p>Kumquat is <b>free</b> of any fees.</p>
         <p>Kumquat is a conference that is created by students for students. The main driving force behind its creation are
             the activities of members of scientific clubs and students who are associated with research groups at our university.
             We want to create an event where we will be able to present our research results, show what we do, but also listen
