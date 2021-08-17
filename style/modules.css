@@ -193,7 +193,7 @@ nav {
 
     /* side bar*/
     #side-bar {
-        height: 320vh;
+        height: 350vh;
         position: relative;
         flex-direction: column;
         font-size: 1rem;

@@ -26,6 +26,26 @@ require_once 'php/menu.php'; ?>
         </div>
     </article>
     <article class="guest">
+        <img src="img/guests/Rigol.png" alt="Prof Ralph Metzler's photo">
+        <div>
+            <h1 style="text-align: start">Dr Marcos Rigol</h1>
+            <h2>/ Theoretical Physics /</h2>
+            <p>Dr. Rigol is a Professor of Physics at Penn State. Before joining Penn State, he was an Associate
+                Professor of Physics at Georgetown University. Dr. Rigol completed his undergraduate (Summa Cum Laude)
+                and M.Sc. studies at the Institute of Nuclear Sciences and Technology in Havana. He received his Ph.D.
+                in Physics (Summa Cum Laude) from the University of Stuttgart, and did postdocs at the University of
+                California Davis, the University of Southern California, and the University of California Santa Cruz.
+                Dr. Rigol's research interest is in many-body quantum systems in and out of equilibrium, with a focus on
+                the effect of strong correlations. His research is at the interface between condensed matter physics,
+                ultracold atoms, and statistical mechanics. He has published over 150 papers in peer-reviewed journals
+                and has given over 180 invited talks. He received a 2011 Young Scientist Prize from the International
+                Union of Pure and Applied Physics (IUPAP) and the 2019 Faculty Scholar Medal for Outstanding Achievement
+                in the Physical Sciences at Penn State. Dr. Rigol is a Fellow of the American Physical Society and of
+                the American Association for the
+                Advancement of Science. </p>
+        </div>
+    </article>
+    <article class="guest">
         <img src="img/guests/polk.png" alt="Prof Anatoli Polkovnikov's photo">
         <div>
             <h1 style="text-align: start">Prof Anatoli Polkovnikov</h1>
