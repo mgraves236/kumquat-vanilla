@@ -9,7 +9,7 @@ require_once 'php/menu.php'; ?>
         <img src="img/guests/metzler.png" alt="Prof Ralph Metzler's photo">
         <div>
             <h1 style="text-align: start">Prof Dr Ralf Metzler</h1>
-            <h2>/ Complex Systems /</h2>
+            <h2>/ Theoretical Physics /</h2>
             <p>Ralf Metzler is a professor for Theoretical Physics at the University of Potsdam. After obtaining his
                 doctoral
                 degree from the University of Ulm, Ralf was postdoc at Tel Aviv University and MIT, and he previously
