@@ -50,7 +50,7 @@ require_once 'php/menu.php'; ?>
         <div>
             <h1 style="text-align: start">Prof Anatoli Polkovnikov</h1>
             <h2>/ Quantum Computing /</h2>
-            <p>Anatoli Polkovnikov is a Professor of Physcis at Boston University. Anatoli obtained his doctoral degree
+            <p>Anatoli Polkovnikov is a Professor of Physics at Boston University. Anatoli obtained his doctoral degree
                 at Yale University in Theoretical Physics. Then he was a postdoc at Department of Physics of Harvard
                 University. His research interests include many particle systems, especially driven away from
                 equilibrium.
