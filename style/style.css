@@ -128,6 +128,11 @@ a:hover {
     color: #b3b3b3;
 }
 
+.question {
+    font-weight: 600;
+    margin-block-start: 1em;
+}
+
 @media only screen and (min-width: 1200px) {
     main {
         margin-top: 0;
