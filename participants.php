@@ -7,14 +7,14 @@ require_once 'php/menu.php'; ?>
 <main>
     <article>
         <h1>Abstracts</h1>
-        <p>If you've already registered, send us your abstract using <a href="dcmnt/abstract.tex"
+        <p>If you've already registered, access <a href="dcmnt/abstract.tex"
                                                                         download="kumquat_abstract.tex"><i
-                        class="far fa-file-alt"></i> the template</a>.
+                        class="far fa-file-alt"></i> the abstract template</a>.
             Then send an e-mail to kumquat@pwr.edu.pl with your abstract in a tex file. If you have any questions,
             please
             feel free to contact us!</p>
     </article>
-    <article>
+    <article id="faq">
         <h1>FAQ</h1>
         <div class="question"> What is the cost of attending the conference?</div>
         The conference is entirely free of charge.
