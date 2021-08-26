@@ -12,8 +12,7 @@ require_once 'php/menu.php'; ?>
             community.</p>
         <p>The conference will take place <b>online on 16-20 September 2021</b>.</p>
         <p>Kumquat is <b>free</b> of any fees.</p>
-        <p><b>Before asking any questions, please check if they aren't already answered in our <a
-                    href="participants.php#faq">FAQ</a>.</b></p>
+        <p><b><a href="participants.php#faq">Before asking any questions, please check if they aren't already answered in our FAQ</a>.</b></p>
         <p>Kumquat is a conference that is created by students for students. The main driving force behind its creation
             are
             the activities of members of scientific clubs and students who are associated with research groups at our

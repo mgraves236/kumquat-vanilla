@@ -114,6 +114,7 @@ a:hover {
 .guest h1 {
     margin-top: .5em;
     text-align: center;
+    font-size: 1.7rem;
 }
 
 .guest h1::after {
@@ -128,6 +129,30 @@ a:hover {
     color: #b3b3b3;
 }
 
+
+main nav {
+    margin: 3em;
+}
+
+.button {
+   border-radius: 1em;
+    padding: .5em;
+    border: .15em #f8f8f8 solid;
+    background: #f8f8f8;
+    margin-bottom: 1em;
+}
+
+.button:active, .button:focus, .button:hover {
+    border-color: #F08118;
+}
+
+#guests>h1, #workshops>h1 {
+     font-size: 2.5rem;
+     text-align: center;
+    margin-bottom: 1.3em;
+ }
+
+
 .question {
     font-weight: 600;
     margin-block-start: 1em;
@@ -136,7 +161,7 @@ a:hover {
 @media only screen and (min-width: 1200px) {
     main {
         margin-top: 0;
-        margin-right: 4em;
+        margin-right: 16em;
         margin-left: 16em;
         height: 100%;
     }
@@ -161,5 +186,8 @@ a:hover {
         margin-bottom: 1.8em;
     }
 
-
+    #guests>h1, #workshops>h1 {
+        font-size: 2.5rem;
+        text-align: left;
+    }
 }
