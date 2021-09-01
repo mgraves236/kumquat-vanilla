@@ -134,7 +134,18 @@ require_once 'php/menu.php'; ?>
                     approach and to understand the fundamental problems one has to stomp upon afoot.</p>
             </div>
         </article>
-
+        <article class="guest">
+            <img src="img/workshops/ari.png">
+            <div>
+                <h1 style="text-align: start">Participants integration</h1>
+                <p>Joanna - an introverted extravert and enthusiast of all things Arctic will host our social ice
+                    breakers night! Come join us for a short presentation about International Association of Physics
+                    Students followed up by an evening full of games, chats and drinks of your choice!
+                    <br>
+                    Joanna studied her BSc at Wrocław University of Science and Technology and currently pursues her MSc
+                    at University of Warsaw and serves as vice-president of Polish Association of Physics Students.</p>
+            </div>
+        </article>
     </div>
     <nav class="grid">
         <a href="#guests" class="button">Guest lectures</a>
