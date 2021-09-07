@@ -135,6 +135,27 @@ require_once 'php/menu.php'; ?>
             </div>
         </article>
         <article class="guest">
+            <img src="img/workshops/cmqm.png">
+            <div>
+                <h1 style="text-align: start">Computional Methods in Quantum Computing</h1>
+                <p><br><br><br></p>
+            </div>
+        </article>
+        <article class="guest">
+            <img src="img/workshops/cmcs.png">
+            <div>
+                <h1 style="text-align: start">Computional Methods in Complex Systems</h1>
+                <p><br><br><br></p>
+            </div>
+        </article>
+        <article class="guest">
+            <img src="img/workshops/cmtp.png">
+            <div>
+                <h1 style="text-align: start">Computional Methods in Theoretical Physics </h1>
+                <p><br><br><br></p>
+            </div>
+        </article>
+        <article class="guest">
             <img src="img/workshops/ari.png">
             <div>
                 <h1 style="text-align: start">Participants integration</h1>
@@ -146,6 +167,8 @@ require_once 'php/menu.php'; ?>
                     at University of Warsaw and serves as vice-president of Polish Association of Physics Students.</p>
             </div>
         </article>
+
+
     </div>
     <nav class="grid">
         <a href="#guests" class="button">Guest lectures</a>
