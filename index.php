@@ -21,7 +21,7 @@ require_once 'php/menu.php'; ?>
             listen
             to what our colleagues all around the world are doing, exchange scientific experience, and meet interesting
             people. </p>
-        <img src="img/numbers.svg" style="width:95%; margin: auto;">
+        <img src="img/numbers-blank.svg" style="width:95%; margin: auto;">
     </article>
     <!--  <p>Our conference has the <b>IAPS sponsorship</b> and we are able to have an outstanding reach among international
         students.</p>-->
