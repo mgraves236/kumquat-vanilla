@@ -137,21 +137,21 @@ require_once 'php/menu.php'; ?>
         <article class="guest">
             <img src="img/workshops/cmqm.png">
             <div>
-                <h1 style="text-align: start">Computional Methods in Quantum Computing</h1>
+                <h1 style="text-align: start">Computational Methods in Quantum Computing</h1>
                 <p><br><br><br></p>
             </div>
         </article>
         <article class="guest">
             <img src="img/workshops/cmcs.png">
             <div>
-                <h1 style="text-align: start">Computional Methods in Complex Systems</h1>
+                <h1 style="text-align: start">Computational Methods in Complex Systems</h1>
                 <p><br><br><br></p>
             </div>
         </article>
         <article class="guest">
             <img src="img/workshops/cmtp.png">
             <div>
-                <h1 style="text-align: start">Computional Methods in Theoretical Physics </h1>
+                <h1 style="text-align: start">Computational Methods in Theoretical Physics </h1>
                 <p><br><br><br></p>
             </div>
         </article>
